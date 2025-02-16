@@ -12,12 +12,12 @@ number2 = int(input('Give me another number: '))
 #add numbers together
 
 add = number1 + number2
-print("{} + {} = {}".format(number1, number2, add))
+print(f'{number1} + {number2} = {add}')
 
 #multiply numbers together
 
 multiply = number1 * number2
-print("{} * {} = {}".format(number1, number2, multiply))
+print(f'{number1} * {number2} = {multiply}')
 
 #greet user
 
